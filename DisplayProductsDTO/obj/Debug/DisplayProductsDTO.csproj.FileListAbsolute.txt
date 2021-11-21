@@ -1,0 +1,6 @@
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsDTO\bin\Debug\DisplayProductsDTO.dll
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsDTO\bin\Debug\DisplayProductsDTO.pdb
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsDTO\obj\Debug\DisplayProductsDTO.csproj.AssemblyReference.cache
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsDTO\obj\Debug\DisplayProductsDTO.csproj.CoreCompileInputs.cache
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsDTO\obj\Debug\DisplayProductsDTO.dll
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsDTO\obj\Debug\DisplayProductsDTO.pdb

@@ -1,0 +1,14 @@
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsBL\bin\Debug\DisplayProductsBL.dll
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsBL\bin\Debug\DisplayProductsBL.pdb
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsBL\bin\Debug\DisplayProductsDAL.dll
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsBL\bin\Debug\DisplayProductsDTO.dll
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsBL\bin\Debug\EntityFramework.dll
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsBL\bin\Debug\DisplayProductsDAL.pdb
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsBL\bin\Debug\DisplayProductsDAL.dll.config
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsBL\bin\Debug\DisplayProductsDTO.pdb
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsBL\bin\Debug\EntityFramework.xml
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsBL\obj\Debug\DisplayProductsBL.csproj.AssemblyReference.cache
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsBL\obj\Debug\DisplayProductsBL.csproj.CoreCompileInputs.cache
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsBL\obj\Debug\DisplayProductsBL.csproj.CopyComplete
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsBL\obj\Debug\DisplayProductsBL.dll
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsBL\obj\Debug\DisplayProductsBL.pdb

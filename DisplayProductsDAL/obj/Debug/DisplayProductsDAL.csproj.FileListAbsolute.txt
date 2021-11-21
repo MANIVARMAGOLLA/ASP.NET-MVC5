@@ -1,0 +1,14 @@
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsDAL\bin\Debug\DisplayProductsDAL.dll.config
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsDAL\bin\Debug\DisplayProductsDAL.dll
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsDAL\bin\Debug\DisplayProductsDAL.pdb
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsDAL\bin\Debug\DisplayProductsDTO.dll
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsDAL\bin\Debug\EntityFramework.dll
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsDAL\bin\Debug\EntityFramework.SqlServer.dll
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsDAL\bin\Debug\DisplayProductsDTO.pdb
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsDAL\bin\Debug\EntityFramework.xml
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsDAL\bin\Debug\EntityFramework.SqlServer.xml
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsDAL\obj\Debug\DisplayProductsDAL.csproj.AssemblyReference.cache
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsDAL\obj\Debug\DisplayProductsDAL.csproj.CoreCompileInputs.cache
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsDAL\obj\Debug\DisplayProductsDAL.csproj.CopyComplete
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsDAL\obj\Debug\DisplayProductsDAL.dll
+I:\LTTS\ASP.NET UI\MVCActivity5EF\DisplayProductsDAL\obj\Debug\DisplayProductsDAL.pdb
